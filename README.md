@@ -1,4 +1,4 @@
-# K-Mean-clusterig-
+# K-Mean-clustering
 
 Business Case :
 there is a mall in specific city which their clients subscribes for their cards, they can shop whatsoever at the mall with that card.
